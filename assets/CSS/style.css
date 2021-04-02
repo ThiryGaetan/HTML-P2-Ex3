@@ -1,0 +1,25 @@
+table {
+    border: 3px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+td.date {
+    text-align: end;
+}
+td.somme {
+    text-align: center;
+}
+#gris {
+    background-color: rgb(173, 173, 173);
+}
+#vert {
+    background-color: rgb(127, 255, 185);
+}
+#rouge {
+    background-color: rgb(224, 104, 104);
+}
