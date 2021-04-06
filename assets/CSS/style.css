@@ -11,15 +11,15 @@ th, td {
 td.date {
     text-align: end;
 }
-td.somme {
+td.amount {
     text-align: center;
 }
-.gris {
+.grey {
     background-color: rgb(173, 173, 173);
 }
-.vert {
+.green {
     background-color: rgb(127, 255, 185);
 }
-.rouge {
+.red {
     background-color: rgb(224, 104, 104);
 }
