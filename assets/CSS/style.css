@@ -14,12 +14,12 @@ td.date {
 td.somme {
     text-align: center;
 }
-#gris {
+.gris {
     background-color: rgb(173, 173, 173);
 }
-#vert {
+.vert {
     background-color: rgb(127, 255, 185);
 }
-#rouge {
+.rouge {
     background-color: rgb(224, 104, 104);
 }
